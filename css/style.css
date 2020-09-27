@@ -433,7 +433,7 @@ ul {
   #m-prev-next {
     position: absolute;
     right: 0;
-    top: 43vh;
+    transform: translateY(-100%);
   }
   #desk-nav {
     display: none;
