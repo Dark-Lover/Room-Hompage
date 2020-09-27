@@ -358,7 +358,7 @@ ul {
     padding: 1rem 1.5rem 2rem 1.5rem;
   }
   .navigation {
-    margin-top: 46px;
+    margin-top: 40px;
   }
 }
 @media (min-width: 600px) {
@@ -433,7 +433,7 @@ ul {
   #m-prev-next {
     position: absolute;
     right: 0;
-    top: 43.5vh;
+    top: 43vh;
   }
   #desk-nav {
     display: none;
